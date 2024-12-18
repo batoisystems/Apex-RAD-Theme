@@ -28,7 +28,7 @@
 	<!-- <link rel="stylesheet" href="https://www.batoi.com/pub/css/app.min.css?v=64816510b67ef"> -->
 
     <!-- CSS -->
-    <link rel="stylesheet" href="../cloudspace/pub/css/app.css">
+    <link rel="stylesheet" href="./assets/css/app.css">
 	<!-- <link rel="stylesheet" href="apex.css"> -->
 
 	<!-- Include the latest jstree CSS -->
