@@ -119,7 +119,7 @@ switch($sSlug)
     break;
 
     default:
-    $sPageTitle = 'Apex Theme';
+    $sPageTitle = 'Apex RAD Theme';
     $sIncludeFile = 'toc.php';
     break;    
 }
