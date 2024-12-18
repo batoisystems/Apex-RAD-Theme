@@ -28,7 +28,7 @@ The project is in the **initial phase** with the following available:
    - Landing Page (in progress)
    - Dashboard (to be developed)
    - Portfolio Page (to be developed)
-   - Error Pages (in progress)
+   - Error Pages - 404, etc. (in progress)
 
 ---
 
