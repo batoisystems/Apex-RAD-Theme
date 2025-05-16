@@ -64,7 +64,7 @@ $(function () {
 })
 </script>
 <!-- modal-dialog -->  
-<div class="modal fade" tabindexrole="dialog" id="custom-modal">  
+<div class="modal fade" tabindex="-1" role="dialog" id="custom-modal">  
 	<div class="modal-dialog modal-md" role="document">  
 		<div class="modal-content">  
 			<!-- modal-header -->  
